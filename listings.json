@@ -1,0 +1,92 @@
+[
+  {
+    "neighborhood": "Maplewood Heights",
+    "price": 425000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "house_size": 1500,
+    "description": "This cozy 3-bedroom, 2-bathroom ranch home in Maplewood Heights offers a spacious open floor plan with remodeled kitchen featuring granite countertops and stainless steel appliances. The large backyard with deck is perfect for entertaining or quiet evenings with family. Natural light fills every room thanks to abundant windows, and the finished basement adds extra living space or storage.",
+    "neighborhood_description": "Maplewood Heights is a family-friendly suburban neighborhood known for its excellent public schools, community parks, and tree-lined streets. Residents enjoy local farmers’ markets and easy access to downtown shops and restaurants within a 15-minute drive."
+  },
+  {
+    "neighborhood": "Downtown Loft District",
+    "price": 975000,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "house_size": 1400,
+    "description": "Experience urban living at its finest in this chic, industrial-style loft featuring exposed brick walls, soaring 14-foot ceilings, and floor-to-ceiling windows offering city skyline views. The open-concept kitchen with quartz countertops and a breakfast bar is perfect for entertaining. Building amenities include a rooftop pool, fitness center, and 24-hour concierge service.",
+    "neighborhood_description": "Downtown Loft District is a bustling urban neighborhood with a vibrant nightlife, trendy restaurants, art galleries, and boutique shopping. Excellent public transportation options and walkability make it popular with young professionals and creatives."
+  },
+  {
+    "neighborhood": "Seaside Cove",
+    "price": 1350000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "house_size": 2800,
+    "description": "Stunning waterfront home in Seaside Cove featuring panoramic ocean views from every room. This elegant 4-bedroom, 3-bathroom property offers a gourmet kitchen with custom cabinetry, a sunroom, and an expansive deck perfect for watching sunsets. The master suite includes a spa-like bathroom and walk-in closet. Enjoy private beach access and a two-car garage.",
+    "neighborhood_description": "Seaside Cove is an exclusive coastal community prized for its beautiful beaches, quiet atmosphere, and outdoor recreational opportunities such as boating and hiking. Friendly neighbors and seasonal farmers’ markets add to the relaxed, upscale vibe."
+  },
+  {
+    "neighborhood": "Old Town Elm",
+    "price": 350000,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "house_size": 850,
+    "description": "Charming historic cottage situated in the heart of Old Town Elm. This 2-bedroom, 1-bath home boasts original hardwood floors, built-in shelving, and a cozy wood-burning fireplace. The quaint front porch overlooks a walkable street lined with mature elms. An updated kitchen and a private fenced yard enhance comfortable, nostalgic living.",
+    "neighborhood_description": "Old Town Elm is beloved for its historic architecture, antique shops, and tree-lined sidewalks. Its small-town feel offers frequent community events like weekend art walks and seasonal festivals. Ideal for those seeking character and convenience near the city center."
+  },
+  {
+    "neighborhood": "Crestview Meadows",
+    "price": 620000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "house_size": 2200,
+    "description": "Modern family home in Crestview Meadows with 4 spacious bedrooms, 3 baths, and an open-concept living room that flows seamlessly into a chef's kitchen with stainless steel appliances and center island. The master bedroom suite comes with a walk-in closet and dual vanity bath. The fenced backyard includes a patio and mature landscaping, perfect for children and pets.",
+    "neighborhood_description": "Crestview Meadows is a suburban enclave with top-rated schools, well-maintained parks, and recreational facilities. Its quiet streets and family-friendly atmosphere make it a sought-after locale for growing families looking for space and community."
+  },
+  {
+    "neighborhood": "Sunnybrook Apartments",
+    "price": 185000,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "house_size": 650,
+    "description": "Bright and efficient 1-bedroom apartment in the heart of Sunnybrook. This updated unit features modern laminate flooring, an open kitchen with breakfast nook, and large windows that fill the space with sunlight. Community amenities include a fitness center, pool, and secure parking. Ideal for first-time buyers or investors.",
+    "neighborhood_description": "Sunnybrook offers convenient access to shopping centers, public transit, and local eateries. Its mix of apartment complexes and townhomes attracts young professionals and students looking for affordable, low-maintenance living options."
+  },
+  {
+    "neighborhood": "Hilltop Estates",
+    "price": 2450000,
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "house_size": 4300,
+    "description": "Luxurious estate home in Hilltop Estates with spectacular mountain views. Featuring 5 bedrooms, each with en-suite baths, high ceilings, designer finishes, a gourmet kitchen with professional-grade appliances, and a home theater. Expansive patios and an infinity-edge pool make this property an entertainer’s dream. The gated community offers privacy and exclusivity.",
+    "neighborhood_description": "Hilltop Estates is an upscale, serene neighborhood perched on rolling hills with large lots and stunning vistas. Residents enjoy hiking trails, equestrian facilities, and close proximity to renowned private schools and fine dining."
+  },
+  {
+    "neighborhood": "Riverside Commons",
+    "price": 525000,
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "house_size": 1900,
+    "description": "Beautiful townhome in Riverside Commons with 3 bedrooms, 2.5 bathrooms, and a two-car garage. The open floor plan features hardwood floors, a gas fireplace, and a kitchen with granite counters and stainless appliances. The deck overlooks the community green spaces and walking paths along the river, providing a peaceful retreat.",
+    "neighborhood_description": "Riverside Commons is known for its riverfront trails, community clubhouse, and family-oriented events. Convenient to downtown and highways, it balances suburban tranquility with urban accessibility."
+  },
+  {
+    "neighborhood": "Sunset Valley",
+    "price": 310000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "house_size": 1400,
+    "description": "Affordable single-family home in Sunset Valley featuring 3 bedrooms, 2 bathrooms, and a spacious kitchen with breakfast bar. The fenced backyard offers a patio and mature shade trees. Perfect for first-time homebuyers or small families seeking a quiet neighborhood with good schools.",
+    "neighborhood_description": "Sunset Valley is a welcoming community with parks, local schools, and easy access to shopping and dining. Residents enjoy a calm suburban environment with a strong neighborhood association and seasonal block parties."
+  },
+  {
+    "neighborhood": "The Grove",
+    "price": 450000,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "house_size": 1150,
+    "description": "Contemporary 2-bedroom, 2-bath condo in The Grove, featuring an open floor plan with laminate flooring, a modern kitchen with quartz countertops, and a private balcony with views of mature trees. Building amenities include a clubhouse, pool, fitness center, and secure parking. Ideal for professionals or downsizers.",
+    "neighborhood_description": "The Grove is a vibrant mixed-use neighborhood with tree-lined streets, local coffee shops, and boutique stores. Its proximity to parks and cultural venues makes it popular for those seeking an active, walkable lifestyle."
+  }
+]

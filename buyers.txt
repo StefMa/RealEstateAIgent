@@ -1,0 +1,41 @@
+1. Name: Clara & Jonah Ramirez
+   Bedrooms: 4
+   Bathrooms: 3
+   Price: 1200000+
+   Size: 2000+
+   Note: Searching for a large, light-filled home near the coast with space for working from home and a kitchen fit for hosting big family meals.
+
+2. Name: Malik Thompson
+   Bedrooms: 1
+   Bathrooms: 1
+   Price: 300000
+   Size: 800
+   Note: Tech worker buying his first place. Wants a sleek, modern apartment in a walkable area with on-site amenities and minimal upkeep.
+
+3. Name: Eleanor Greene
+   Bedrooms: 2
+   Bathrooms: 1
+   Price: 400000
+   Size: 1000
+   Note: Retired and downsizing. Loves historic charm, walkable neighborhoods, and a cozy porch to sip tea and read in the mornings.
+
+4. Name: The Park Family
+   Bedrooms: 4
+   Bathrooms: 3
+   Price: 600000
+   Size: 1800
+   Note: Family of four with a dog looking for a suburban home with a fenced yard, parks nearby, and good schools.
+
+5. Name: Tyler & Raj
+   Bedrooms: 2
+   Bathrooms: 2
+   Price: 1000000
+   Size: 1400
+   Note: Stylish professionals who love city life and entertaining. Looking for a modern space with high-end finishes and a view.
+
+6. Name: Grace Wellington
+   Bedrooms: 3
+   Bathrooms: 2
+   Price: 500000
+   Size: 1600
+   Note: Nature lover and writer seeking a peaceful, quiet home near hiking trails but not too far from city conveniences.
